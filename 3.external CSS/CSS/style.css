@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    background-color:   rgb(33, 37, 41);
+    padding: 20px;
+    
+}
+.first a{
+    
+    color: rgb(255, 255, 255);
+    cursor: auto;
+    font-weight: 400;
+    height: 40px;
+    padding: 0.3125rem 0;
+    margin:0 4rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    
+  }
+.second{
+    text-align: center;
+    background-color:  rgb(13, 110, 253);
+    background-position: center;
+    background-size: cover;
+    padding: 13 rem;
+    padding: 80px 0;
+}
+.second h1 {
+    color:rgb(255, 255, 255);
+    font-size: 32.349998474121094px;
+    font-weight: 700;
+    height: 38px;
+}
+.second p{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 300;
+    height: 60px;
+}
+.second a{
+    background-color: rgb(249,250,251);
+    padding: .5rem 1rem;
+    text-decoration: none;
+    border: 1px solid transparent;
+    font-weight: 400;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    color: #000;
+    font-size: 1.25rem;
+
+}
+.third{
+    padding: 11rem 0;
+    margin: 0px 250px;
+}
+.third h2{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: calc(1.325rem + 0.9vw);
+}
+.third p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.third ul{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+}
+.fourth{
+    padding: 10rem 250px;
+
+    background-color:  rgb(248, 249, 250);
+}
+.fourth h2{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+     font-size: calc(1.325rem + 0.9vw);
+}
+.fourth p{
+    margin-top: 0;
+margin-bottom: 1rem;
+font-size: 1.25rem;
+font-weight: 300;
+}
+.fifth{
+    padding: 11rem 0;
+    margin: 0 250px;
+}
+.fifth h2{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: calc(1.325rem + 0.9vw);
+}
+.fifth p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.sixth{
+    color: #fff;
+    text-align: center;
+    background-color:  rgb(33, 37, 41);
+    padding: 3rem 0;
+}
